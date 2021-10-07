@@ -1,0 +1,4 @@
+Required Fonts:
+
+- Eurostile
+- Eurostile Extended
